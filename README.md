@@ -24,25 +24,9 @@ During the project, challenges primarily revolved around time constraints and se
 
 ## Repository Structure
 
-- **data:** Contains datasets used in the project.
 - **code:** Includes Jupyter notebooks and Python scripts for data processing, analysis, and model training.
 - **results:** Stores the output files, graphs, and any visualizations generated during the project.
 
-## Getting Started
-
-1. Clone the repository:
-
-    ```bash
-    git clone https://github.com/your-username/dynamic-ticket-pricing.git
-    ```
-
-2. Navigate to the project directory:
-
-    ```bash
-    cd dynamic-ticket-pricing
-    ```
-
-3. Explore the code, datasets, and results folders for a comprehensive view of the project.
 
 ## Dependencies
 
